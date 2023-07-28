@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Aprendizado de C#": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\joaoe\\OneDrive\\C#\\Aprendizado de C#\\Aprendizado de C#\\JogoDosNumeros.cs"
+    }
+  }
+}
