@@ -1,4 +1,4 @@
-﻿string primeiraApresentacao = "Seja bem vindo ao MusicSharp";
+﻿/*string primeiraApresentacao = "Seja bem vindo ao MusicSharp";
 
 
 //Fazendo uma lista 
@@ -96,7 +96,7 @@ void Comandos()
                 */
 
 
-                Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
+              /*  Console.WriteLine("\nDigite uma tecla para voltar ao menu principal");
                 Console.ReadKey();
                 Console.Clear();
                 Comandos();
@@ -109,7 +109,6 @@ void Comandos()
 
 
 ChamandoApresentacao();
-Comandos(); 
-
+Comandos(); */
 
 
